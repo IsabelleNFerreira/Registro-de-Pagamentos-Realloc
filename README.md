@@ -1,4 +1,4 @@
-## 📌 Registro de Pagamentos (Realloc) ##
+## 📌 Registro de Salários (Realloc) ##
 * O usuário deve informar o nome do funcionário e em seguida, o salário do mesmo
 * Após o primeiro registro, é possível escolher entre:
     * REGISTRAR OUTRO;
